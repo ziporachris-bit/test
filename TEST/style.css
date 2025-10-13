@@ -1,0 +1,45 @@
+h1,h2{
+    color: #4B0082;
+}
+.black-element{
+    color: black;
+    background-color: white;
+    font-family:Franklin Gothic Medium;
+}
+.red-element{
+    color: red;
+    background: #ffeaea;
+    padding: 10px;
+    border-radius: 5px; 
+}
+.feedback-section{
+    margin-top: 20px;
+}
+.grey-elemnt, .orange-element {
+    display: inline-block;
+    padding: 8px 16px;
+    background: #ccc;
+    color: #000;
+    text-decoration: none; /* removes underline */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.grey-element {
+    background: #888;
+}
+.orange-element {
+    background: orange;
+}
+body{
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+img{
+     margin: 20px 0;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
